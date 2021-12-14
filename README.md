@@ -9,5 +9,3 @@
 
 ## Furture Improvements
 ### I'd like to add a ghost that the pacman chases across the screen. 
-
-file:///Users/janec/vscode/PacmanExercise/pacman.html
